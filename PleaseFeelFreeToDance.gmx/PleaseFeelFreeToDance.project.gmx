@@ -87,6 +87,7 @@
       <sprite>sprites\s_Bob_Idle</sprite>
       <sprite>sprites\s_bob_Running</sprite>
     </sprites>
+    <sprite>sprites\Enemy1Bounce</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -119,6 +120,7 @@
     <object>objects\obj_BasicBob</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_mouseClick</object>
+    <object>objects\obj_Enemy1</object>
     <object>objects\obj_controller</object>
     <objects name="env">
       <object>objects\obj_water</object>

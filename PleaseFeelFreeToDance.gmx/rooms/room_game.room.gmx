@@ -61,6 +61,7 @@ view_visible[0]=true;</code>
     <instance objName="obj_controller" x="0" y="0" name="inst_E91EDFE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_BasicBob" x="1792" y="1312" name="inst_19769CE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mouseClick" x="320" y="256" name="inst_591EBF50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Enemy1" x="160" y="160" name="inst_14C0A5DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
